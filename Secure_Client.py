@@ -1,3 +1,5 @@
+# This code is by Krishna Ganta, student of Northshore School District, student ID 2032673.
+
 # Try to import the necessary libraries
 try:
     import socket
